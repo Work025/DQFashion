@@ -1,4 +1,4 @@
-import mainstar from "../../Assents/mainstar.svg"
+import mainstar from "../../Assets/mainstar.svg"
 import "../../Styles/Main.css"
 
 function Main() {

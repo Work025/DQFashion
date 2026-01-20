@@ -1,7 +1,7 @@
 import { useState } from "react";
-import card1 from '../../Assents/imgcard1.svg';
-import card2 from '../../Assents/imgcard2.svg';
-import card3 from '../../Assents/imgcard3.svg';
+import card1 from '../../Assets/imgcard1.svg';
+import card2 from '../../Assets/imgcard2.svg';
+import card3 from '../../Assets/imgcard3.svg';
 import "../../Styles/Sale.css";
 
 function Sale({ onAddToCart }) { // Headerga cart count yuborish uchun

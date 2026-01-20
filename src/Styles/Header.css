@@ -43,7 +43,7 @@
     /* Rang va rasm birga, rasm biroz xira */
     background-image:
         linear-gradient(rgba(255, 255, 255, 0.85), rgba(255, 255, 255, 0.85)),
-        url("../Assents/bodyimg.svg");
+        url("../Assets/bodyimg.svg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

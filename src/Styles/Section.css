@@ -24,7 +24,7 @@
     left: 0;
     width: 315px;
     height: 477px;
-    background: url('../Assents/section-remove.svg');
+    background: url('../Assets/section-remove.svg');
     border-radius: 200px 0 0 200px;
     z-index: 2;
 }
@@ -37,7 +37,7 @@
     right: 0;
     width: 45%;
     height: 100%;
-    background: url('../Assents/section-remove.svg') right/cover no-repeat;
+    background: url('../Assets/section-remove.svg') right/cover no-repeat;
     border-radius: 0 200px 0 200px;
     z-index: 2;
 }

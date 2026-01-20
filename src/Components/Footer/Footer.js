@@ -1,4 +1,4 @@
-import footerstar from "../../Assents/footer-star .svg"
+import footerstar from "../../Assets/footer-star .svg"
 import "../../Styles/Footer.css"
 
 function Footer() {

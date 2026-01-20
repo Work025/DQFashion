@@ -1,5 +1,5 @@
-import stnposition from "../../Assents/stn-star.svg";
-import stntextcss from "../../Assents/stn-text-css.svg"
+import stnposition from "../../Assets/stn-star.svg";
+import stntextcss from "../../Assets/stn-text-css.svg"
 import "../../Styles/Section.css";
 
 function Section() {
